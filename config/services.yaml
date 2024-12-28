@@ -1,0 +1,7 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/services
+
+- Control:
+    - CasaOS:
+        href:http://172.31.0.182:80/

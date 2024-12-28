@@ -1,0 +1,16 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/settings
+
+background: https://picsum.photos/1900/700    
+headerStyle: clean
+cardBlur: md
+theme: light
+color: zinc
+fiveColumns: true
+hideVersion: true
+hideErrors: false
+
+providers:
+  openweathermap: openweathermapapikey
+  weatherapi: weatherapiapikey
